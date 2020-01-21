@@ -1,0 +1,12 @@
+{
+	"AmountDiscount":
+		{
+			"Total": 100,
+			"Discount": 5
+		},
+	"BulkDiscount":
+		{
+			"Total": 3,
+			"Discount": 1
+		}
+}
